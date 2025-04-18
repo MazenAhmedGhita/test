@@ -2,5 +2,8 @@
 int main()
 {
 	cout<<"hallo world";
-	cout << "cahnges";
+	cout << "cahnges"<<endl;
+	int x=5, y=3, sum = x+y;
+	cout << sum;
+
 }
